@@ -3,8 +3,6 @@
 
 A TypeScript utility that calculates the first valid loan due date based on funding date, pay schedule, holidays, and direct deposit status.
 
-![image](https://i.ibb.co/NdLk9jb5/Screenshot-2025-05-09-at-20-53-01.png)
-
 ## 🚀 Features
 
 - Supports `weekly`, `bi-weekly`, and `monthly` pay schedules
@@ -46,3 +44,5 @@ const dueDate = calculator.calculateDueDate(
 
 console.log(dueDate.toISOString()); // '2024-05-24T00:00:00.000Z'
 ```
+
+![image](https://i.ibb.co/NdLk9jb5/Screenshot-2025-05-09-at-20-53-01.png)
