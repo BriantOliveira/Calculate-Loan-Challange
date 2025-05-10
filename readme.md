@@ -1,6 +1,9 @@
+
 # 📅 Pay Date Calculator
 
 A TypeScript utility that calculates the first valid loan due date based on funding date, pay schedule, holidays, and direct deposit status.
+
+![image](https://i.ibb.co/LXNvzZPW/Type-Script-Programming-Test.jpg)
 
 ## 🚀 Features
 
