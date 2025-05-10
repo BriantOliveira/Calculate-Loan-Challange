@@ -16,6 +16,12 @@ npm install
 npm test
 ```
 
+## 🚀 Running App
+
+```bash
+npm start
+```
+
 ## 🛠 Build
 
 ```
